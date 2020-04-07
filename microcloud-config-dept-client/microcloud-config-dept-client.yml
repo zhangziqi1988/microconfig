@@ -31,7 +31,7 @@ spring:
     driver-class-name: org.gjt.mm.mysql.Driver      # 配置MySQL的驱动程序类
     url: jdbc:mysql://192.168.10.143:3306/mldn8001           # 数据库连接地址
     username: root                                  # 数据库用户名
-    password: '{cipher}cf66eb147890283d2d7009dd49018fb38237f6577b7223cd2363151af71ef678'                            # 数据库连接密码
+    password: '{cipher}AQCIdzlffjtEiysoF1XSJ/tyq/qUUEa9WmeBf9wMJRsGRwnywCqzorI57JHjgcOfzx7rqKicjEwphTFlm2bDW2lOkc7/nT4P3Se2u8/sgCbpIJuT3utgBHsUoA13mDDGwScOXxlqROCZOON1VE9iAUcVGnCauxYXo5/641B8NFcxJIH415zxSCiRDzFluf1sD5y4IePYeRbFpXFNIVTVYjooZkMosxe4Hh9cbxkjibhlALWFonsBKcXXPuqe2kLzUHyOCGat1WKO1qDYEV+S5i0nq1AmtUZIeY6tURV0lV59X2zW5wKWmNqwynliJoT+oHcj95KZRJOX+Zfrzh14sOd8Jg7c+gQC9ztW/YGLQmqhoAE3MBEXEyLeWJxXMttBwTE='                            # 数据库连接密码
     dbcp2:                                          # 进行数据库连接池的配置
       min-idle: 5                                   # 数据库连接池的最小维持连接数    
       initial-size: 5                               # 初始化提供的连接数
@@ -68,7 +68,7 @@ spring:
     driver-class-name: org.gjt.mm.mysql.Driver      # 配置MySQL的驱动程序类
     url: jdbc:mysql://192.168.10.143:3306/mldn8001           # 数据库连接地址
     username: root                                  # 数据库用户名
-    password: '{cipher}cf66eb147890283d2d7009dd49018fb38237f6577b7223cd2363151af71ef678'                            # 数据库连接密码
+    password: '{cipher}AQCIdzlffjtEiysoF1XSJ/tyq/qUUEa9WmeBf9wMJRsGRwnywCqzorI57JHjgcOfzx7rqKicjEwphTFlm2bDW2lOkc7/nT4P3Se2u8/sgCbpIJuT3utgBHsUoA13mDDGwScOXxlqROCZOON1VE9iAUcVGnCauxYXo5/641B8NFcxJIH415zxSCiRDzFluf1sD5y4IePYeRbFpXFNIVTVYjooZkMosxe4Hh9cbxkjibhlALWFonsBKcXXPuqe2kLzUHyOCGat1WKO1qDYEV+S5i0nq1AmtUZIeY6tURV0lV59X2zW5wKWmNqwynliJoT+oHcj95KZRJOX+Zfrzh14sOd8Jg7c+gQC9ztW/YGLQmqhoAE3MBEXEyLeWJxXMttBwTE='                            # 数据库连接密码
     dbcp2:                                          # 进行数据库连接池的配置
       min-idle: 5                                   # 数据库连接池的最小维持连接数    
       initial-size: 5                               # 初始化提供的连接数
